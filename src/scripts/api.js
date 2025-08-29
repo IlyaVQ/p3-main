@@ -11,8 +11,8 @@ export {
     patchAvatarApi
 };
 
-const COHORT = 'wff-cohort-4';
-const TOKEN = '4fe98c95-18ba-48c9-878c-8bb8056c2c44';
+const COHORT = 'apf-cohort-202';
+const TOKEN = '6dba5530-0cc9-4aa0-b392-62d6ad18efae';
 const BASE_URL = 'https://nomoreparties.co/v1';
 
 function getResponseData(res) {
